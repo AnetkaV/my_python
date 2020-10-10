@@ -1,0 +1,21 @@
+Python web project ideas:
+Beginner ideas
+number guessing 
+contanct book - to save contact details, including name, adress, phone number, and even email adress. Application that allow you save and find contact details.
+The application should also allow users to update contact information, delelte contacts, and list saved contact.
+Descktop Notifier App
+Youtube video downloader
+Rock, paper, scissors
+
+Intermidiate ideas 
+Calculator
+Countdown Clock and Timer
+Random Password Generator
+Random Password Generator
+Random Wikipedia Article 
+Alarm Clock
+Currency converter
+Post-it notes
+Directory Tree Generator
+
+Website: https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/

@@ -55,9 +55,6 @@ frame_b.pack()
 frame_a.pack()
 
 
-
-
-
 for i in range(3):
     window.columnconfigure(i, weight=1, minsize=75)
     window.rowconfigure(i, weight=1, minsize=50)

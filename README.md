@@ -10,3 +10,5 @@ playing with variables etc.
 
 pyth.py
 definitions, classes
+
+tkinter stuff is from https://realpython.com/python-gui-tkinter/

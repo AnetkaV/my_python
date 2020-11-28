@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\Plocha\\Python"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"jupyter.jupyterServerType": "local"
+	}
+}
